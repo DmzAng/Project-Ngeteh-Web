@@ -252,7 +252,7 @@ header.apa > .navbar > .tombol-login > button:hover {
   justify-content: center;
   align-items: center;
   flex: 1;
-  background: url("../SUBMISSION/asset/katrin-hauf-TaJkaQ_yBW0-unsplash\ \(1\).jpg");
+  background: url("../asset/katrin-hauf-TaJkaQ_yBW0-unsplash\ \(1\).jpg");
   background-size: cover;
   background-position: center;
   height: 100%;
@@ -415,7 +415,7 @@ div .this-product {
   display: flex;
   position: relative;
   top: 47px;
-  background: url(../SUBMISSION/asset/ravi-pinisetti-ySQXoZLAsmc-unsplash.jpg);
+  background: url(../asset/ravi-pinisetti-ySQXoZLAsmc-unsplash.jpg);
   background-size: cover;
 }
 
